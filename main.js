@@ -12,3 +12,4 @@ let currentIndex = 0;
     }
 
     setInterval(changeImage, 5000);
+
